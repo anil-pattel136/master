@@ -6,7 +6,7 @@
     'category': 'app',
     'summary': 'r',
     'price':30.00,
-    'currency':USD
+    'currency':'EUR'
     'description': """
         
     """,
